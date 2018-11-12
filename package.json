@@ -100,8 +100,12 @@
     "ansidiff": "1.0",
     "async": "0.1.22",
     "ben": "0.0.x",
+    "mocha": "^5.2.0",
+    "mocha-sinon": "^2.1.0",
     "nodeunit": "0.8.x",
     "semver": "1.1.0",
+    "sinon": "^7.1.1",
+    "sinon-chai": "^3.2.0",
     "uglify-js": "1.1.x"
   },
   "directories": {},
