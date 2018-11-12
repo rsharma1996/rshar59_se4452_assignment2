@@ -1,2 +1,2 @@
 # rshar59_se4452_assignment2
-Testing using Mocha frameowkr
+Testing using Mocha framework
